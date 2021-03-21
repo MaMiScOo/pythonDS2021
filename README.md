@@ -1,3 +1,3 @@
 # pythonDS2021
 
-## Cours Python for Data science à l'Instutu Polytechnique de Dakar
+## Cours Python for Data science à l'Institut Polytechnique de Dakar
